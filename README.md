@@ -17,6 +17,8 @@ The mod currently supports:
 * Čeština (Czech)
 * Deutsch (Deutschland) - thanks to [Schleifenkratzer](https://github.com/Schleifenkratzer)
 * Español (México) - thanks to [frankh93](https://github.com/frankh93)
+* Русский (Россия) - thanks to [VitalityV1nT](https://github.com/VitalityV1nT)
+* Turkish (Turkiye) - thanks to [bcrtvkcs](https://github.com/bcrtvkcs)
 
 #### How to Submit Changes
 If you find a mistake or want to bring the mod to your native language, please follow these steps:
